@@ -1,5 +1,5 @@
 /*
-Vectirs - Resizable arrays
+Vectors - Resizable arrays
 */
 
 use std::mem;

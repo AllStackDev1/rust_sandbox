@@ -9,7 +9,7 @@ Structs - Used to create custom data type
 //     blue: u8,
 // }
 
-// Tuole Struct
+// Tuple Struct
 // struct Color(u8, u8, u8);
 
 struct Person {
